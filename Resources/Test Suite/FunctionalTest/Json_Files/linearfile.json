@@ -1,0 +1,14 @@
+{
+    "startDate":"2018-01-01",
+    "endDate":"2023-12-26",
+    "filters":"[]",
+    "npsScoreType":"DAILY",
+    "limitNegativity":"2",
+    "limitPositivity": "4",
+    "feedbackCollectionId":"369",
+    "min": "1",
+    "max": "5",
+    "ignoreGeneral":"false",
+    "cardId":"1273",
+    "categoriesId":[]
+}
