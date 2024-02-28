@@ -1,0 +1,16 @@
+{
+    "startDate":"2022-08-01",
+    "endDate":"2023-08-29",
+    "filters":"[]",
+    "conversation": "true",
+    "feedbackIds": "[]",
+    "npsScoreType":"ROLLING_365_DAY",
+    "sentimentCategoryId":"",
+    "sort": "-date",
+    "limitPositivity": "4",
+    "feedbackCollectionId":"685",
+    "limit": "50",
+    "offset": "0",
+    "ignoreGeneral":"false",
+    "categoriesId":[]
+}

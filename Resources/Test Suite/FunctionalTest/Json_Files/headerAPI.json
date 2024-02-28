@@ -1,0 +1,15 @@
+{
+
+  "authority": "stage-api.lumoa.me",
+  "accept": "application/json, text/plain, */*",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-FI,en-US;q=0.9,en;q=0.8",
+  "cache-control": "no-cache",
+  "content-length": "205",
+  "content-type": "application/json",
+  "dnt": "1",
+  "origin": "https://stage.lumoa.me",
+  "pragma": "no-cache",
+  "referer": "https://stage.lumoa.me/"
+
+}
