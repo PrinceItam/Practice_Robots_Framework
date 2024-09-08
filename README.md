@@ -41,12 +41,3 @@ tests
 tests.robot: This file is the main entry point for the test suite and contains the test cases.
 Resources: This folder contains reusable keywords used in the test cases.
 PageObjects: This folder holds Python classes representing web page elements and defining interaction methods.
-Contributing:
-
-Feel free to extend this example by adding more test cases, page objects, and keywords to suit your specific application needs.
-
-Additional Notes:
-
-This README provides a basic overview. Refer to the Robot Framework and SeleniumLibrary documentation for detailed information about writing test cases and advanced features.
-Remember to replace the example test cases and keywords with your own application-specific logic.
-Consider using environment variables or configuration files to manage test data and URLs.
